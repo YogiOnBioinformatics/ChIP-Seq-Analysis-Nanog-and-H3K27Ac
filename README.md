@@ -2,7 +2,7 @@
 
 **Introduction** 
 
-*Note: This is still a work in progress.*
+:exclamation: *Note: This is still a work in progress.* :exclamation: 
 
 This repository contains work done from an independent project I undertook to perform a full ChIP-Seq analysis of the transcription factor Nanog on Zebrafish embryos using data from the [Sequence Read Archive (SRA)](https://www.ncbi.nlm.nih.gov/sra).
 
