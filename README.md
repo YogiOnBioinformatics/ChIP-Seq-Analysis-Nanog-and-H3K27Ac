@@ -12,7 +12,8 @@ The 3 main questions I'm trying to answer:
 
     - Are there different sequence motifs found in promoter peaks vs enhancer peaks?
 
-    - Is binding strength and binding sequence motif of your transcription factor?
+    - Is binding strength and binding sequence motif of your transcription factor at enhancers
+    correlated with H3K27ac histone modification levels?
 
 
 **Files** 
