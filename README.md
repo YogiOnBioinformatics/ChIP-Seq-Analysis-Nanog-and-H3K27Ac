@@ -1,4 +1,4 @@
-# ChIP Seq Analysis Nanog and H3K27Ac
+# ChIP Seq Analysis Nanog and H3K27ac
 
 **Introduction** 
 
